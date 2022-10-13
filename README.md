@@ -1,4 +1,4 @@
-## Moje projekty
-[https://milenakosmetolog.pl/](https://milenakosmetolog.pl/)
+## Hi 👋
+My portfolio:
+[https://agata16.github.io/](https://agata16.github.io/)
 
-## Kurs Udemy - Tworzenia Stron WWW
